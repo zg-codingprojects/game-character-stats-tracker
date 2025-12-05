@@ -1,4 +1,4 @@
-# Game Character Stats Tracker
+# game-character-stats-tracker
 
 This app keeps track of a character's stats and allows modification of them, while validating specified parameters, through the use of classes and encapsulation.
 
